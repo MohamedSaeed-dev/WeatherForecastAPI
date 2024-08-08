@@ -4,5 +4,10 @@
 - Get The expected status of weather of your chosen country or city. 🌡️⛅
 - the status has more valuable information about the status 😍🌥️
 
+# API
+The API is published on Monster API Hosting
+- API URL : weatherforecast/{city}
+- [WeatherForecast](http://mohamedsaeed.runasp.net/weatherforecast/london)
+
 # License
 ### I would be happy for any contribution 🧑‍💻❤️
